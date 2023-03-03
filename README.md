@@ -1,2 +1,4 @@
 # Python_OpenCV
-Open CV(Computer Vision )
+Repositry for Open CV(Computer Vision ) Python
+
+
